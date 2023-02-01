@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.formwrap1{
+    height: 100%;
+}
+.formwrap{
+    max-width: 700px;
+    margin: auto;
+    padding: 16PX;
+    background-color: #3d385c;
+    text-align: center;
+}
+.inputbox{
+    margin-top: 10px;
+    /* font-size: 124px; */
+}
+input,select{
+    font-size: 24px;
+    padding: 8px;
+    width: 500PX;
+    
+}
+.btn{
+    padding: 1.2rem;
+    margin-top: 10px;
+    width: 160px;
+    background: #1abc9c;
+    font-weight: bold;
+    border: none;
+    border-radius:8px;
+    color:#fff;
+    font-size: 1.2em;
+}
